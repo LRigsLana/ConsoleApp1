@@ -18,6 +18,7 @@ namespace TextReader
 {
     public partial class Form1 : Form
     {
+        //MyCode
         string inform = "";
         int countS = 0;
         string settings = "";
